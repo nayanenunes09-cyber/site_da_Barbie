@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(252, 211, 218);
+}
+
+.titulo{
+    text-align: center;
+    background-color: rgb(257, 232, 218);
+    color: rgb(255, 77, 151);
+    font-family: cursive;
+}
+
+nav ul{
+    background-color: white;
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none
+    color(srgb 255 77 151);
+}
+
+.imagi{
+    width: 300px;
+    height: auto;
+}
+
+footer{
+    color: gray;
+}
+
+p{
+    color: purple;
+}
